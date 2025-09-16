@@ -25,10 +25,6 @@ src/
     (imagens utilizadas no site)
 ```
 
-## 🖼️ Prévia
-
-![Prévia do Portfólio](src/img/26110031907090.webp)
-
 ## 🔗 Links dos Projetos
 
 - [Agência Batatinha](https://github.com/DiogoSouza268/Agencia-batatinha)
